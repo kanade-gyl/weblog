@@ -19,7 +19,7 @@ class WeblogWebApplicationTests {
         log.error("这是一行 Error 级别日志");
 
         // 占位符
-        String author = "犬小哈";
+        String author = "Kanade";
         log.info("这是一行带有占位符日志，作者：{}", author);
     }
 

@@ -20,9 +20,8 @@ import java.time.format.DateTimeFormatter;
 import java.util.TimeZone;
 
 /**
- * @author: 犬小哈
- * @url: www.quanxiaoha.com
- * @date: 2023-08-17 16:08
+ * @author: Kanade
+ * @date: 2024-11-17 16:08
  * @description: 自定义 Jackson
  **/
 @Configuration

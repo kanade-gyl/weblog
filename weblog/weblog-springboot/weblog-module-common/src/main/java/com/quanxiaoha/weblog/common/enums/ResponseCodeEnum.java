@@ -4,9 +4,8 @@ import com.quanxiaoha.weblog.common.exception.BaseExceptionInterface;
 import lombok.Getter;
 import lombok.AllArgsConstructor;
 /**
- * @author: 犬小哈
- * @url: www.quanxiaoha.com
- * @date: 2023-08-15 10:33
+ * @author: Kanade
+ * @date: 2024-11-25 17:33
  * @description: 响应异常码
  **/
 @Getter

@@ -3,9 +3,8 @@ package com.quanxiaoha.weblog.common.exception;
 import lombok.Getter;
 import lombok.Setter;
 /**
- * @author: 犬小哈
- * @url: www.quanxiaoha.com
- * @date: 2023-08-15 9:52
+ * @author: Kanade
+ * @date: 2024-11-23 13:52
  * @description: 业务异常
  **/
 @Getter

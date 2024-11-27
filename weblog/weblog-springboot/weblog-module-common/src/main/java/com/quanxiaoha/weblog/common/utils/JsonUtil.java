@@ -6,9 +6,8 @@ import lombok.extern.slf4j.Slf4j;
 import org.springframework.boot.json.JsonParseException;
 
 /**
- * @author: 犬小哈
- * @url:www.quanxiaoha.com
- * @date:2023-08-14 16:27
+ * @author: Kanade
+ * @date:2024-11-24 16:27
  * @deprecated: JSON工具类
  **/
 public class JsonUtil {

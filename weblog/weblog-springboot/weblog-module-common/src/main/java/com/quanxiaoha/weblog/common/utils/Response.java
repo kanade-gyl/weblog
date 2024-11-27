@@ -5,9 +5,8 @@ import com.quanxiaoha.weblog.common.exception.BizException;
 import com.quanxiaoha.weblog.common.exception.BaseExceptionInterface;
 import java.io.Serializable;
 /**
- * @author: 犬小哈
- * @url: www.quanxiaoha.com
- * @date: 2023-08-11 19:50
+ * @author: Kanade
+ * @date: 2024-11-25 19:50
  * @description: 响应参数工具类
  **/
 @Data

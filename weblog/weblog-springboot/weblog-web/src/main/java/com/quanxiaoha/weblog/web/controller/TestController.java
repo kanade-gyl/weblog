@@ -30,9 +30,8 @@ import java.util.Date;
 import java.util.stream.Collectors;
 
 /**
- * @author: 犬小哈
- * @url: www.quanxiaoha.com
- * @date: 2023-08-10 10:34
+ * @author: Kanade
+ * @date: 2024-11-25 20:34
  * @description: TODO
  **/
 @RestController

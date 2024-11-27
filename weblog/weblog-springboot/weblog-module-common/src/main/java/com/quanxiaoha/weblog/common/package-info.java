@@ -1,7 +1,6 @@
 /**
- * @author: 犬小哈
- * @url: www.quanxiaoha.com
- * @date: 2023-08-10 9:20
+ * @author: Kanade
+ * @date: 2024-11-23 19:20
  * @description: TODO
  **/
 package com.quanxiaoha.weblog.common;

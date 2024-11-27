@@ -5,7 +5,6 @@ import org.springframework.context.annotation.Configuration;
 
 /**
  * @author : Kanade
- * @url: www.quanxiaoha.com
  * @date: 2024-11-25 21:39
  * @description: Mybatis Plus 配置文件
  **/
