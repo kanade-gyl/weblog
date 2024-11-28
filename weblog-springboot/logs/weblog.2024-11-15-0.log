@@ -1,0 +1,7 @@
+2024-11-15 14:12:59.091 [main] INFO  com.example.weblog.web.WeblogWebApplicationTests - Starting WeblogWebApplicationTests using Java 1.8.0_202 on CY-20231213BTZT with PID 12744 (started by MyPC in C:\Users\MyPC\IdeaProjects\weblog\weblog-springboot\weblog-web)
+2024-11-15 14:12:59.092 [main] INFO  com.example.weblog.web.WeblogWebApplicationTests - The following profiles are active: prod
+2024-11-15 14:13:00.223 [main] INFO  com.example.weblog.web.WeblogWebApplicationTests - Started WeblogWebApplicationTests in 1.501 seconds (JVM running for 2.319)
+2024-11-15 14:13:00.392 [main] INFO  com.example.weblog.web.WeblogWebApplicationTests - 这是一行 Info 级别日志
+2024-11-15 14:13:00.392 [main] WARN  com.example.weblog.web.WeblogWebApplicationTests - 这是一行 Warn 级别日志
+2024-11-15 14:13:00.392 [main] ERROR com.example.weblog.web.WeblogWebApplicationTests - 这是一行 Error 级别日志
+2024-11-15 14:13:00.392 [main] INFO  com.example.weblog.web.WeblogWebApplicationTests - 这是一行带有占位符日志，作者：Kanade

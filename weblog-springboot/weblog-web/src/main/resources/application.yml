@@ -1,0 +1,15 @@
+spring:
+  profiles:
+    # 默认激活 dev 环境
+    active: dev
+#  jackson:
+#    # 设置后台返参，若字段值为 null, 则不返回
+#    default-property-inclusion: non_null
+#    # 设置日期字段格式
+#    date-format: yyyy-MM-dd HH:mm:ss
+
+jwt:
+  #签发人
+  issuer: Kanade
+  #密钥
+  secret: R9YUqAs3CsL7IIo+qX7EOFRVCzgKDvCNHqU4cRP5n1+3tamGusmnOkqc75s/Efi5pLX8vzjfvgHHlMLqBitZ5w==
