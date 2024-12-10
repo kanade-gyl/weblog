@@ -1,6 +1,6 @@
 package com.quanxiaoha.weblog.jwt.exception;
 
-import javax.naming.AuthenticationException;
+import org.springframework.security.core.AuthenticationException;
 
 /**
  * @author : Kanade

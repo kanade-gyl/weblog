@@ -37,7 +37,7 @@ public class ResultUtil {
 
     /**
      * 失败响参
-     * @param respnse
+     * @param response
      * @param result
      * @throws IOException
      */

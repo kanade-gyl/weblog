@@ -2,7 +2,6 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-
     <parent>
         <groupId>com.quanxiaoha</groupId>
         <artifactId>weblog-springboot</artifactId>
@@ -12,10 +11,10 @@
     <groupId>com.quanxiaoha</groupId>
     <artifactId>weblog-module-jwt</artifactId>
     <name>weblog-module-jwt</name>
-    <description>weblog-module-jwt (JWT模块，管理用户认证、鉴权)</description>
+    <description>weblog-module-jwt (JWT 模块，管理用户认证、鉴权)</description>
 
     <dependencies>
-        <!-- 免写冗余的Java样板式代码 -->
+        <!-- 免写冗余的 Java 样板式代码 -->
         <dependency>
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
@@ -64,11 +63,6 @@
         <dependency>
             <groupId>com.quanxiaoha</groupId>
             <artifactId>weblog-module-common</artifactId>
-        </dependency>
-
-        <dependency>
-            <groupId>com.fasterxml.jackson.core</groupId>
-            <artifactId>jackson-core</artifactId>
         </dependency>
 
     </dependencies>
