@@ -2,8 +2,15 @@ spring:
   profiles:
     # 默认激活 dev 环境
     active: dev
-#  jackson:
-#    # 设置后台返参，若字段值为 null, 则不返回
-#    default-property-inclusion: non_null
-#    # 设置日期字段格式
-#    date-format: yyyy-MM-dd HH:mm:ss
+
+jwt:
+  # 签发人
+  issuer: kanade
+  # 密钥
+  secret: LBR/f0ny/m5xxGnzSyR8gSFwho06y+bKYSekEHMQ6kTgZOnJ4eKdPEO30i4Bd0FkGqV6dkearidBQHlPLVMvmA==
+  # token 过期时间（单位：分钟） 24*60
+  tokenExpireTime: 1440
+  # token 请求头中的 key 值
+  tokenHeaderKey: Authorization
+  # token 请求头中的 value 值前缀
+  tokenPrefix: Bearer
